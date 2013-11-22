@@ -42,13 +42,13 @@ follow:
   - class: icon-rss
     url: /atom.xml
   - class: icon-weibo
-    url: http://weibo.com/pizn
+    url: http://weibo.com/wszlei
   - class: icon-renren
     url: http://renren.com
   - class: icon-github-alt
-    url: http://github.com/pizn
+    url: http://github.com/bluemsn
   - class: icon-twitter
-    url: http://twitter.com/piznlin
+    url: http://twitter.com/bluemsn
   - class: icon-google-plus
     url: http://google.com
 
