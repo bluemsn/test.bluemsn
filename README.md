@@ -1,13 +1,12 @@
-##Kunka
+#一点点说明
 
-> 这只是另外一个 Jekyll 主题文件。
+这是[松鹤](http://www.bluemsn.com)的源码，如果你看了[使用Github Pages建独立博客](http://www.bluemsn.com/github-pages/)，希望看下去哦：
 
-![kunka blog theme](images/blog.jpg)
+* 马上动手，很赞
+* 感谢认可
+* 推荐阅读：[我为什么写博客？](http://www.bluemsn.com/why-blog/)
+* 想复用我的设计，没问题，标个出处就好啦
+* 转载也没问题，标个出处呗少年
+* 恩，认真的童鞋最可爱啦~
 
-###使用方法
-
-* 把主题文件 clone 到你本地服务器，添加文章到 ```_posts``` 文件夹。
-* 修改 ```_config.yml```，里面有很多可以配置的选项。
-* 运行 ```jekyll server```，浏览器打开 http://localhost:4000 便可以看到新的主题。
-
-更多的介绍，详见[Jekyll 博客主题 Kunka](http://www.zhanxin.info/jekyll/2013-08-11-jekyll-theme-kunka.html)。
+###请删掉统计代码哦 /_layouts/default.html L38-41
