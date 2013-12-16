@@ -5,7 +5,7 @@ category: project
 description: OverAPI是一个收集所有参考手册项目，目标是简单、高效的快速查找各种语言的API文档。
 ---
 
-[OverAPI][2]是一个从我自己的需求出发，搭建起来的项目。项目结构很简单，将常用语言的API很扁平的展现出来，方便翻阅和查找。
+[OverAPI][2]是[beiyuu](http://beiyuu.com)搭建起来的项目。项目结构很简单，将常用语言的API很扁平的展现出来，方便翻阅和查找。
 
 Chrome插件下载：[All Cheat Sheets][4]
 
@@ -36,8 +36,6 @@ Chrome插件下载：[All Cheat Sheets][4]
 - [HTML-DOM Cheat Sheet](http://overapi.com/html-dom/)
 - [mod_rewrite Cheat Sheet](http://overapi.com/mod_rewrite/)
 
-[BeiYuu]:    http://beiyuu.com  "BeiYuu"
+[bluemsn]:    http://www.bluemsn.com  "松鹤"
 [1]:    {{ page.url}}  ({{ page.title }})
 [2]:    http://overapi.com  (OverAPI - Collecting all the cheat sheets)
-[3]:    http://movie.douban.com/subject/1397546/ "Following"
-[4]:    https://chrome.google.com/webstore/detail/oedodeocfdeegliepeeoieemhdgoijod?hl=zh-CN "All Cheat Sheets"
